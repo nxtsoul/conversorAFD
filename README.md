@@ -8,7 +8,7 @@ O ConversorAFD foi desenvolvido na versão 3.9.8 de 64bits do Python. Que você 
 ### Clone o Repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/ConversorAFD.git
+git clone https://github.com/nxtsoul/ConversorAFD.git
 cd ConversorAFD
 ```
 
